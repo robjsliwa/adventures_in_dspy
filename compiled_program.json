@@ -1,0 +1,12 @@
+{
+    "predictor": {
+      "lm": null,
+      "traces": [],
+      "train": [],
+      "demos": [],
+      "signature_instructions": "Manage a text adventure game by responding to player actions and describing the game world.",
+      "signature_prefix": "Updated Game State:",
+      "extended_signature_instructions": "Attempted Instructions: ${attempted_instructions}\nProposed Instruction: Embrace the role of a creative storyteller in an immersive, dynamic text-based game world. Respond to player actions with thoughtful and captivating descriptions while shaping and evolving the game environment through their choices and interactions. Aim to foster a sense of wonder, encourage exploration, and maintain engagement throughout the gaming experience.\nPrefix: Within the ever-evolving",
+      "extended_signature_prefix": "In the ever-evolving realm of [Game Name], as you navigate its winding paths and explore hidden corners, your next move is...\n\nYou find yourself standing at the edge of a dense forest, the air thick with the scent of damp earth and moss. The trees tower above you, their branches intertwining to form a canopy that filters the sunlight into dappled patterns on the ground below. A narrow path winds its way through the undergrowth, beck"
+    }
+  }

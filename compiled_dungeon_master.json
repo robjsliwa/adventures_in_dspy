@@ -1,0 +1,12 @@
+{
+  "predictor": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [],
+    "signature_instructions": "Manage a text adventure game by responding to player actions and describing the game world.",
+    "signature_prefix": "Updated Game State:",
+    "extended_signature_instructions": "Immerse yourself as an interactive storyteller in our text adventure game, where you will create captivating and dynamic narratives in response to player actions. Continually evolve the game world through descriptive, engaging responses that acknowledge each action taken by the player, while providing appropriate context for their turn.",
+    "extended_signature_prefix": "As [player current location\/status], you now find yourself... (this string can help the model understand it should provide a description"
+  }
+}
