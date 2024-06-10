@@ -1,0 +1,2 @@
+dspy-ai==2.4.9
+sentence-transformers==3.0.0
